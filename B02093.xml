@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious speech to both Houses of Parliament Thursday, October 21. 1680.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02093</idno>
+            <idno type="STC">Wing C3158A</idno>
+            <idno type="STC">ESTC R173776</idno>
+            <idno type="EEBO-CITATION">52612075</idno>
+            <idno type="OCLC">ocm 52612075</idno>
+            <idno type="VID">179360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179360)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2786:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious speech to both Houses of Parliament Thursday, October 21. 1680.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by John Swintoun, one of His Majestie's printers,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerning foreign relations and the Popish Plot.</note>
+                  <note>Title vignette: royal arms.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179360:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>HIS MAJESTIES MOST GRACIOUS SPEECH To both Houſes of PARLIAMENT: <hi>Thurſday, October</hi> 21. 1680.</p>
+            <figure>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-Printed by <hi>John Swintoun,</hi> one of His <hi>MAJESTIE'S</hi> Printers: <hi>Anno DOM.</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:179360:2"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="3" facs="tcp:179360:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>HIS <hi>MAJESTIE'S</hi> Moſt Gracious SPEECH To both Houſes of PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>Thurſday, October 21, 1680.</date>
+               </dateline>
+               <lb/>
+               <salute>My Lords and Gentle-men,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſeveral Prorogations I have made, have been very Advanta<g ref="char:EOLhyphen"/>gious to Our Neighbours, and very Uſeful to Me: For I have imployed that time in making and perfecting an Alliance with the Crown of <hi>Spain,</hi> ſuitable to that I had before made with the States General of the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces,</hi> and they alſo had with <hi>Spain,</hi> conſiſting of mutual Obligations of Succour and De<g ref="char:EOLhyphen"/>fence: I have all the reaſon in the World to believe, that what was ſo much deſired by former Parliaments, muſt needs be very grateful to you now; for though ſome perhaps may wiſh, thoſe Meaſures had been taken ſooner, yet no Man can with Reaſon think, that it is now too late; for they who deſire to make thoſe, and they who deſire to break them, ſhow themſelves to be of another Opinion.</p>
+            <p>And as Theſe are the beſt Meaſures that could be taken, for the Safety of <hi>England,</hi> and the Repoſe of CHRISTENDOM, ſo they cannot Fail of their End; And to Spread and Improve Themſelves farther; if Our Diviſions at Home, do not render Our Friendſhip leſs Conſiderable Abroad.</p>
+            <p>To prevent Theſe as much as may be, I think fit, to Renew to You, all thoſe Aſſurances which can, be Deſired, that Nothing ſhall be wanting on My Part, to give You the fulleſt Satisfaction Your hearts can wiſh, for the Security of the Proteſtant Religion, which I am fully Reſolved to Maintain againſt all the Conſpira<g ref="char:EOLhyphen"/>cies of Our Enemies; and to Concur with You in any Thing which ſhall be Propoſed, that may Conſiſt with the Preſerving the Succeſſion of the Crown, in its Right and Legal Courſe of De<g ref="char:EOLhyphen"/>ſcent.</p>
+            <p>
+               <pb n="4" facs="tcp:179360:3"/>
+               <!-- PDF PAGE 36 -->
+And in Order to this, I do Recommend it to You, to Pur<g ref="char:EOLhyphen"/>ſue the Farther Examination of the Plot, with a Strict and Impar<g ref="char:EOLhyphen"/>tial Enquiry. I do not think My Self ſafe, nor You neither, till that Matter be gone Through-with: And therefore it will be Neceſſa<g ref="char:EOLhyphen"/>ry, that the Lords in the Tower may be brought to a Speedy Tryal, that Juſtice may be done.</p>
+            <p>I need not tell you what Danger the City of <hi>Tangier</hi> is in; Nor of what Importance it is to Us to Preſerve.</p>
+            <p>I Have with a Mighty Charge and Expence, ſent a very Con<g ref="char:EOLhyphen"/>ſiderable Relief thither; But conſtantly to Maintain ſo great a Force as that War will require, and to make theſe New-Works, and Fortifications; without which the Place will not long be Tenable, Amounts to ſo vaſt a Sum, that without Your Support, it will be Impoſſible for me to undergo it. Therefore, I lay the Matter Plainly before You, and deſire your Advice and Aſſiſtance. But that which I value above all the Treaſures in the World, and which I am ſure, will give Me greater Strength and Reputation, both Home and Abroad, then a Treaſure can do, is a perfect Union amongſt Our Selves. Nothing but this can reſtore the Kingdom to that Strength and Vigor which it ſeems to have loſt, and raiſe Us again to that Conſideration which <hi>England</hi> hath uſually had. All EUROPE hath their Eyes upon this Aſſembly, and think their Own Happineſs, or Miſery, as well as Our's, will depend upon it.</p>
+            <p>If We then be ſo unhappy, as to fall into ſuch a Miſunderſtan<g ref="char:EOLhyphen"/>ding amongſt Our Selves, as would render Our Friendſhip unſate to truſt to, it will not be to be wondered at, if Our Neighbours ſhould begin to take Reſolutions, and perhaps ſuch as may be Fa<g ref="char:EOLhyphen"/>tal to Us.</p>
+            <p>Let Us therefore take care, that we do not Gratifie Our Ene<g ref="char:EOLhyphen"/>mies, and diſcourage<g ref="char:cmbAbbrStroke">̄</g> our Friend, by any unſeaſonable Diſputes.</p>
+            <p>If any ſuch do Happen, the World will ſee it was no fault of Mine; For I have done all that was poſſible for Me to do, to keep You in Peace while I live, and leave you ſo when I Dye.</p>
+            <p>But from ſo great Prudence, and ſo good Affections as Yours, I can fear nothing of this kind; But do Rely upon You all, that You would uſe your beſt Endeavours to bring this Parliament to <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good and happy Concluſion.</p>
+            <closer>
+               <signed>CHARLES REX.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
